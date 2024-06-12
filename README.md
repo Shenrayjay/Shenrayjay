@@ -1,4 +1,5 @@
-# Hi there 👋 我的名字叫沈睿哲  
+# Hi there 👋 我的名字叫沈睿哲，歡迎來到我的GitHub 
+其他前端練習作品 : [React健身網頁](https://github.com/Shenrayjay/React.js-practice)、[JavaScript功能練習](https://github.com/Shenrayjay/Shenrayjay.github.io)、[Next.js功能練習](https://github.com/Shenrayjay/Next.js-practice)
 ## 這裡是我在資展國際前端工程師就業養成班所製作的期末專題的畫面展示  
 Taipei Date 是一個以興趣為導向的交友軟體，其中包括了配對交友、社群媒體、行程規劃以及電影和酒吧探索。  
 前端所使用的技術為：Next.js、daisyUI、tailwindcss  
